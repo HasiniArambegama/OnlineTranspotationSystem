@@ -6,11 +6,11 @@ The Online Transportation System aims to simplify the process of booking transpo
 
 ## Key Features
 
-User Registration and Lo: Allow users to sign up, log in, and maintain their profiles securely.
-Transportation Booking: Provide an extensive list of available transportation options for users to choose from.
-Booking/ Paymennt Management: Enable users to view, edit, or cancel their bookings as needed.
-Search and Filters: Implement search and filtering options to help users find suitable transportation services easily
-
+- User Registration and Lo: Allow users to sign up, log in, and maintain their profiles securely.
+- Delivery Management: Provide an extensive list of available transportation options for users to choose from.
+- Booking/ Paymennt Management: Enable users to view, edit, or cancel their bookings as needed.
+- Food Delivery Management: Enable users to order, view, edit, or delete their food orders.
+  
 ## Getting Started
 ### Prerequisites
 To set up and run the University Management System, ensure you have the following tools installed:
