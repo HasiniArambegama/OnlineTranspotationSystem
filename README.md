@@ -13,19 +13,23 @@ The Online Transportation System aims to simplify the process of booking transpo
   
 ## Getting Started
 ### Prerequisites
-To set up and run the University Management System, ensure you have the following tools installed:
+To run the Online Transportation System locally on your machine, follow these steps:
 -NET Core SDK
 -Visual Studio 2019/2022 Community Edition (or any compatible IDE)
 
 01. Clone this repository to your local machine:
-    ```git clone https://github.com/HasiniArambegama/SwaggerAPI_OcelotAPI_Gateway_Project.git```
+    ```git clone https://github.com/HasiniArambegama/OnlineTranspotationSystem.git```
 
-02. Open the project in Visual Studio or your preferred IDE.
-03. Build and compile the solution.
-04. Run the application, and you're ready to explore the University Management System!
+02. Import the project into Eclipse IDE or any other compatible Java development environment.
+03. Set up the MySQL database. Create a new database and import the required schema and data using MySQL Workbench or a similar tool.
+04. Update the database connection details in the application's configuration files to connect the application to your MySQL instance.
 
-### Contact
-For any questions, suggestions, or support related to the project, please feel free to contact the project maintainers or open an issue on the repository.
+### Usage
+To start the Online Transportation System, deploy the project on Apache Tomcat or any compatible web server, and then access it through a web browser.
 
-Let's revolutionize university management with the University Management System - .NET Core, Swagger, and Ocelot API Gateway! Happy coding!
+01. Deploy the project on Tomcat or your preferred web server:
+    - In Eclipse, right-click on the project, choose "Run As," and select "Run on Server."
+02. Open your web browser and visit the application URL (usually http://localhost:8080/OnlineTransportationSystem).
+03. Register as a new user or log in with your existing credentials.
+04. Explore the available sign in and sign-up, transportation options, make bookings, manage your bookings and order food deliveries.
    
